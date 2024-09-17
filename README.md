@@ -1,4 +1,5 @@
 ---
+description: DS-NFT is currently under development.
 cover: .gitbook/assets/Optimise.png
 coverY: 0
 layout:
@@ -19,9 +20,7 @@ layout:
 
 # 🔜 Coming soon
 
-[**DS-NFT**](https://ds-nft.org/) is currently under development.
-
-Follow us on [**Telegram**](https://t.me/ds\_nft\_org/) or [**subscribe**](https://aecb16de.sibforms.com/serve/MUIFAOlSJxW7i7H3QFeEfcqGkMDVa1DObPCN32mLiOL2FfTTEHbcIQGWsR-mKRKhewDvWEuBvMd9W1lt92i\_K3w4CAqlP5D3\_5aR3YrYBm8ZpikajD6ORtIU7megGSvx3aHwnCADfJtPf8dgN2uSJiZk9oJqgpFlOyJgo3iZ1l4BwWAAiit56fybVyXe5u1RvugfUbewkpkV4fql) to our newsletter to stay informed about developments, special offers, and community events.
+Follow [**DS-NFT**](https://ds-nft.org/) on [**Telegram**](https://t.me/ds\_nft\_org/) or [**subscribe**](https://aecb16de.sibforms.com/serve/MUIFAOlSJxW7i7H3QFeEfcqGkMDVa1DObPCN32mLiOL2FfTTEHbcIQGWsR-mKRKhewDvWEuBvMd9W1lt92i\_K3w4CAqlP5D3\_5aR3YrYBm8ZpikajD6ORtIU7megGSvx3aHwnCADfJtPf8dgN2uSJiZk9oJqgpFlOyJgo3iZ1l4BwWAAiit56fybVyXe5u1RvugfUbewkpkV4fql) to the newsletter to stay informed about developments, community events and special offers.
 
 <div align="left">
 
